@@ -1,0 +1,9 @@
+{
+	"name": "adf-uberproject-dev-sk",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d70d7334-b271-49a6-a141-12fe00b74c83",
+		"tenantId": "386e8b25-5a51-49c9-b7c6-7423a5f854c7"
+	}
+}
